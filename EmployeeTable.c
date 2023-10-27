@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "employee.h"
 Employee EmployeeTable[] = {
-    {1000, "Daphne Borromeo", "909-555-2134", 8.78}
+    {1000, "Daphne Borromeo", "909-555-2134", 8.78},
 
     {1011, "Tammy Franklin", "213-555-1212", 4.50}, 
 
